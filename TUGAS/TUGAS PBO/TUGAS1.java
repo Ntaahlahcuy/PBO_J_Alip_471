@@ -28,7 +28,7 @@ public class TUGAS1 {
         System.out.println("Masukkan Password: ");
         String passwordAdmin = penginput.nextLine();
 
-        if (usernameAdmin.equals("admin477") && passwordAdmin.equals("password477")) {
+        if (usernameAdmin.equals("admin471") && passwordAdmin.equals("password471")) {
             System.out.println("Login Admin Berhasil!");
         } else {
             System.out.println("Login gagal! Username atau password salah.");
